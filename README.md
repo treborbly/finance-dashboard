@@ -8,5 +8,6 @@ What to expect soon..
 - "Others" and "Settings" field will be available.
 - User registration.
 - Adding unique custom fields for better personal use.
+- Package for easier installation.
 
 (This program was made and writen by treborbly)
