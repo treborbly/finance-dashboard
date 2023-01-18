@@ -1,0 +1,5 @@
+
+.DS_Store
+__pycache__/dashboard.cpython-310.pyc
+*.pyc
+mongo_setup.py
